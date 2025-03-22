@@ -18,7 +18,10 @@ Data preprocessing and feature selection.
 Model building using various machine learning algorithms.
 Model evaluation using classification metrics.
 Hyperparameter tuning for the best-performing model.
-Dataset Description
+creating pipeline
+predicting
+dataset description
+
 The dataset pen+base+recognition+of+handwritten+digits.csv contains the following:
 
 Features: 16 numerical features extracted from handwritten digit images.
